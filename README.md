@@ -22,6 +22,7 @@ $ npm install
 
 # Running the application
 $ node selenium.js
+
 ```
 
 ### 🛠 Technologies
@@ -31,9 +32,6 @@ The following tools were used to build the project:
 - [Node.js](https://nodejs.org/en/)
 - ChromeDriver (npm install chromedriver)
 - Selenium-webdriver (npm install selenium-webdriver)
-
-
-![Alt text](readme.image.png)
 
 
 ### Autor
